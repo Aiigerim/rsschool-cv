@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Aiigerim.github.io/rsschool-cv/cv
+https://github.com/Aiigerim/rsschool-cv/blob/gh-pages/cv.md
